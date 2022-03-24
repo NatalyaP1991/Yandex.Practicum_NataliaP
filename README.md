@@ -1,20 +1,20 @@
 # Yandex.Practicum
 Проекты, выполненные во время обучения в Яндекс.Практикум со специальности "Аналитик данных"
 Содержание: / Content:
-- **Модуль 01 / Module 01**
-  - Предобработка данных / Data Processing - Project_01
-  - Исследовательский анализ данных / Exploratory data analysis - Project_01
-  - Статистический анализ данных / Statistical analysis of data - Project_02
-  - Сборный проект №1 / Common project - Project_04
-- **Модуль 02 / Module 02**
-  - Анализ бизнес-показателей / Business performance analysis - Project_05
-  - Принятие решений в бизнесе / Business decision making - Project_06
-  - Как рассказать историю с помощью данных / History driven by data - Project_07 
-  - Сборный проект №2 / Common project - Project_08
-- **Модуль 03 / Module 03**
-  - Автоматизация / Automation - Project_09
-  - Основы машинного обучения / Fundamentals of machine learning (ML) - Project_10
-- **Дипломный проект / Final project - Project_final**
+- **Модуль 01**
+  - Предобработка данных - Project_01
+  - Исследовательский анализ данных - Project_01
+  - Статистический анализ данных - Project_02
+  - Сборный проект №1 - Project_04
+- **Модуль 02**
+  - Анализ бизнес-показателей - Project_05
+  - Принятие решений в бизнесе - Project_06
+  - Как рассказать историю с помощью данных - Project_07 
+  - Сборный проект №2 - Project_08
+- **Модуль 03**
+  - Автоматизация - Project_09
+  - Основы машинного обучения - Project_10
+- **Дипломный проект - Project_final**
 
 ## Project_01 
 
